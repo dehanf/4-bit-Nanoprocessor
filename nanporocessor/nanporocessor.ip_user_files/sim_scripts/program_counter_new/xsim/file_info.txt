@@ -1,0 +1,1 @@
+program_counter_new.vhd,vhdl,xil_defaultlib,../../../../nanporocessor.srcs/sources_1/ip/program_counter_new/sim/program_counter_new.vhd,

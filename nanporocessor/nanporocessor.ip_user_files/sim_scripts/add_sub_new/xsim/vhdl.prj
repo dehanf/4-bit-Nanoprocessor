@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../nanporocessor.srcs/sources_1/ip/add_sub_new/sim/add_sub_new.vhd" \
+
+nosort

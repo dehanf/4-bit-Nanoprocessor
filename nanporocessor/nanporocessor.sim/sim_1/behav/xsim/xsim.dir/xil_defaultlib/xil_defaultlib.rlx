@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sim_1/new/TB_nanoprocessor.vhd,1748101715,vhdl,,,,tb_nanoprocessor,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/imports/res/Decoder_3_to_8.vhd,1747407666,vhdl,,,,decoder_3_to_8,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/imports/res/LUT_7Seg.vhd,1747407666,vhdl,,,,lut_7seg,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/imports/res/Reg_4bit.vhd,1748103659,vhdl,,,,reg_4bit,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/imports/res/Slow_Clk.vhd,1748101899,vhdl,,,,slow_clk,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/ip/add_sub_new/sim/add_sub_new.vhd,1748102659,vhdl,,,,add_sub_new,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/ip/program_counter_new/sim/program_counter_new.vhd,1748102047,vhdl,,,,program_counter_new,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/InstructionDecoder.vhd,1748101715,vhdl,,,,instructiondecoder,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/Mux2to1.vhd,1748101715,vhdl,,,,mux2to1,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/Mux8way4bit.vhd,1748105853,vhdl,,,,mux8way4bit,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/ProgramROM.vhd,1748101715,vhdl,,,,programrom,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/Reg_bank.vhd,1748104859,vhdl,,,,reg_bank,,,,,,,,
+D:/nano enhanced/nanporocessor/nanporocessor.srcs/sources_1/new/nanoprocessor.vhd,1748144194,vhdl,,,,nanoprocessor,,,,,,,,

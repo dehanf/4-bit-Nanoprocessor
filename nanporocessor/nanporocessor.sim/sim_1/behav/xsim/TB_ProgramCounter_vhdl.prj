@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../nanporocessor.srcs/sources_1/new/ProgramCounter.vhd" \
+"../../../../nanporocessor.srcs/sim_1/new/TB_ProgramCounter.vhd" \
+
+# Do not sort compile order
+nosort

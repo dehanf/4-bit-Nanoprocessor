@@ -1,0 +1,86 @@
+# Vivado Project Files
+*.jou
+*.log
+*.pb
+*.wdb
+*.dmp
+
+# Vivado Simulation Files
+*.wcfg
+*.vcd
+*.saif
+*.wlf
+
+# Vivado Synthesis and Implementation Files
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+
+# IP and Generated Files
+*.ip_user_files/
+*.gen/
+
+# Vivado Temporary Files
+*.Xil/
+*.tmp/
+.Xil/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Vivado Crash Logs
+vivado*.backup.jou
+vivado*.backup.log
+hs_err_pid*.log
+hs_err_pid*.dmp
+webtalk*.backup.jou
+webtalk*.backup.log
+
+# Build Output Files
+*.bit
+*.bin
+*.mcs
+*.prm
+*.ltx
+
+# Wave Configuration
+xsim.dir/
+webtalk.jou
+webtalk.log
+xelab.pb
+xsim.ini
+xvhdl.pb
+xvlog.pb
+
+# Backup Files
+*.bak
+*.backup
+
+# IDE Specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows Specific
+desktop.ini
+
+# Keep Project File but Ignore Managed Files
+!*.xpr
+!*.xci
+!*.bd
+
+# Source Control
+.git/
+.gitattributes
+
+# Documentation Build
+docs/_build/

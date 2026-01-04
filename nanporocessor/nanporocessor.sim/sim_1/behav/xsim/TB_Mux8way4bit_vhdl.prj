@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../nanporocessor.srcs/sources_1/new/Mux8way4bit.vhd" \
+"../../../../nanporocessor.srcs/sim_1/new/TB_Mux8way4bit.vhd" \
+
+# Do not sort compile order
+nosort
